@@ -8,7 +8,7 @@ target 'Rave' do
   # Pods for Rave
     pod 'IQKeyboardManagerSwift'
     pod 'Alamofire','~> 4.5.0'
-    pod 'SwiftValidator', :git => 'https://github.com/jpotts18/SwiftValidator.git', :branch => 'master'
+    pod 'SwiftValidator', :git => 'https://github.com/jpotts18/SwiftValidator.git', :tag => '4.2.0'
     pod 'BSErrorMessageView', :git => 'https://github.com/BenjaminSarkisyan/BSErrorMessageView.git'
     pod 'KVNProgress', '~> 2.3.1'
     #pod 'PopupDialog', '~> 0.5.4'
